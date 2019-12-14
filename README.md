@@ -1,4 +1,4 @@
-*Grain Cart Upload*
+Grain Cart Upload
 
 For a 4-minute tutorial: https://youtu.be/75wbA9eWlk4
 
