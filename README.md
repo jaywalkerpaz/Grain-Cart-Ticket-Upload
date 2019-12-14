@@ -1,8 +1,8 @@
-Grain Cart Upload
+*Grain Cart Upload*
 
 For a 4-minute tutorial: https://youtu.be/75wbA9eWlk4
 
-Description: This tool takes in pasted excel data automatically fills out web elements on a page. This is currently used to bulk-upload tickets for existing customers.
+Description: This tool takes in pasted excel data and automatically fills out web elements. This is currently used to bulk-upload tickets for existing customers.
 
 How it works
 
